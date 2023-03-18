@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "netlify-cli": "^2.37.0",
+    "Homepage": "."
+  }
+  
+}
